@@ -1,0 +1,32 @@
+{
+  "name": "business-internet-docs",
+  "version": "1.0.0",
+  "description": "Landing page for necessary documents for a business internet contract.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "business",
+    "internet",
+    "documents",
+    "landing page"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "25.3.0",
+    "@types/react": "19.2.14",
+    "eslint": "^10.0.1",
+    "eslint-config-next": "^0.2.4",
+    "typescript": "latest"
+  }
+}
